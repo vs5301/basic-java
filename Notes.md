@@ -119,4 +119,4 @@ Javascript is not compiled and therefore doesn't have compile time errors. Error
 
 Try-catch block will terminate program normally. Finally block code will be executed everytime in try-catch.
 
-Promises are used to perform asynchronous programming
+Promises are used to perform asynchronous programming. A promise always return either a resolve or reject.
